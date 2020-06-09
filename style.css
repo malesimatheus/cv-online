@@ -1,15 +1,16 @@
 
-.header li {
+.header {
   position: fixed;
-  display: flexx
+  display: inline
   top: 0;
   right: 0;
   height: 50px;
   left: 0;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 12px solid #ccc;
   background: #ECECEC;
   z-index: 2;
 }
+
 
 
 
