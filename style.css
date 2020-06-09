@@ -12,6 +12,24 @@ float:center;
 position: absolute;
 }
 
+.op-navbar #navbar {
+  position: fixed;
+  top: 0;
+  right: 100%;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  margin: 0;
+  padding: 0;
+  float: none;
+  overflow: scroll;
+  background: #fff;
+  background: hsla(0,0%,100%,.98);
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  will-change: position;
+}
+
 
 .footer {
     position: fixed;
