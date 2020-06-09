@@ -1,7 +1,7 @@
 
-.header {
-  min-height: 60px;
+.header li {
   position: fixed;
+  display: flexx
   top: 0;
   right: 0;
   height: 50px;
@@ -10,6 +10,8 @@
   background: #ECECEC;
   z-index: 2;
 }
+
+
 
 
 .footer {
