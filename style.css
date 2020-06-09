@@ -12,7 +12,7 @@ float:center;
 position: absolute;
 }
 
-.op-navbar #navbar {
+.navbar {
   position: fixed;
   top: 0;
   right: 100%;
