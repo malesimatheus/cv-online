@@ -35,8 +35,8 @@ position: absolute;
     position: fixed;
     left: 0;
     bottom: 0;
-    width: 100%;
-    background-color: blue;
+    width: 200%;
+    background-color: rgb(17, 45, 167);
     color: white;
     text-align: center;
   }
