@@ -2,8 +2,19 @@
     float: left;
   }
   
- .navbar a {
+.navbar a {
     display: block;
     padding: 8px;
     background-color: #333333;
+  }
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    text-align: center;
   }
