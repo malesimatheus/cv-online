@@ -12,22 +12,15 @@ float:center;
 position: absolute;
 }
 
-.navbar {
+header {
+  min-height: 60px;
   position: fixed;
   top: 0;
-  right: 100%;
-  width: 100%;
-  height: 100%;
-  z-index: 1000;
-  margin: 0;
-  padding: 0;
-  float: none;
-  overflow: scroll;
-  background: #fff;
-  background: hsla(0,0%,100%,.98);
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  will-change: position;
+  right: 0;
+  left: 0;
+  border-bottom: 1px solid #ccc;
+  background: #ECECEC;
+  z-index: 2;
 }
 
 
