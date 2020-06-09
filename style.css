@@ -1,12 +1,15 @@
-.navbar li {
-    float: center;
-  }
-  
-.navbar a {
-    display: block;
-    padding: 8px;
-    background-color: #333333;
-  }
+*{margin: 0; padding: 0;}
+ 
+body{
+font-family: arial, helvetica, sans-serif;
+font-size: 12px;
+}
+ 
+.menu{
+list-style:none; 
+border:1px solid #c0c0c0; 
+float:center; 
+}
 
 
 .footer {
