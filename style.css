@@ -1,14 +1,14 @@
 
 	.body {
-    padding:2px;
-    margin:2px;
+    padding:30px;
+    margin:10px;
   }
 
   .menu ul {
     position: fixed;
-    padding:40px;
-    margin:0px;
-    float: left;
+    padding:5px;
+    margin:10px;
+    float: right;
     width: 100%;
     background-color:#EDEDED;
     list-style:none;
