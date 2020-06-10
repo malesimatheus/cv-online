@@ -1,6 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
+  background-color: palegreen;
 }
 
 .footer {
@@ -45,15 +46,6 @@ nav {
   grid-column: 2;
 }
 
-.logo {
-  grid-column: 3;
-  background-image: url("https://blog.codepen.io/wp-content/uploads/2012/06/Black-Large.png");
-  background-position: center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 10vh;
-}
-
 .3 {
   grid-column: 4;
 }
@@ -61,6 +53,15 @@ nav {
 .4 {
   grid-column: 5;
 }
+
+.5 {
+  grid-column: 2;
+}
+
+.6 {
+  grid-column: 2;
+}
+
 
 .navLinks {
   font-family: 'Ubuntu', sans-serif;
