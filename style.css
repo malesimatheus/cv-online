@@ -3,13 +3,13 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: lightblue;
+  background-color: blue;
   color: white;
   text-align: center;
 }
 
 .ul {
-  list-style-type: grid;
+  display: grid;
   margin: 0;
   padding: 0;
 }
