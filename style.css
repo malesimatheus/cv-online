@@ -12,7 +12,7 @@
     width: 100%;
     background-color:#EDEDED;
     list-style:none;
-    font:80% Tahoma;
+    font: 100% Tahoma;
   }
 
   .menu ul li { display: inline; }
