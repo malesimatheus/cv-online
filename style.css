@@ -1,12 +1,12 @@
 
 	.body {
-    padding:0px;
-    margin:0px;
+    padding:2px;
+    margin:2px;
   }
 
   .menu ul {
     position: fixed;
-    padding:0px;
+    padding:40px;
     margin:0px;
     float: left;
     width: 100%;
@@ -56,5 +56,5 @@
     background-color: rgb(17, 45, 167);
     color: white;
     text-align: center;
-    font-size: larger;
+    font-size: 20px;
   }
