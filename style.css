@@ -25,6 +25,7 @@ nav {
   grid-gap: 1em;
   align-items: center;
   text-align: center;
+  text-decoration-color: chartreuse;
   border-bottom: 4px solid white;
   background: blue;
 }
@@ -57,10 +58,6 @@ nav {
   grid-column: 2;
 }
 
-.6 {
-  grid-column: 2;
-}
-
 
 .navLinks {
   font-family: 'Ubuntu', sans-serif;
@@ -80,3 +77,4 @@ nav {
 #twist {
   color: blue;
 }
+
