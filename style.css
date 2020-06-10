@@ -15,7 +15,7 @@
     font:80% Tahoma;
   }
 
-  .menu ul li { display: inline; }
+  .menu ul li { display: grid; }
 
   .menu ul li a {
     background-color:#EDEDED;
